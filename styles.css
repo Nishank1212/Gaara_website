@@ -144,3 +144,47 @@ p{
     }
 
   }
+
+  @media screen and (max-width: 720px) {
+    #para-index{
+        font-size: 10px;
+    }
+
+    li{
+        font-size: 8px;
+    }
+
+    p{
+        font-size: 10px;
+    }
+
+    button{
+        margin-top: 15px;
+        padding: 8px 8px 8px 8px;
+    }
+
+    .main-gaara{
+        width: 60%;
+        height:60%;
+    }
+
+    img{
+        height: 300px;
+        width:300px;
+    }
+
+    .votehelp{
+        height: 270px;
+        width: 400px;
+    }
+
+    .i{
+        font-size: 10px;
+    }
+
+    .but1{
+        font-size: 10px;
+        padding : 8px 8px 8px 8px;
+    }
+
+  }
