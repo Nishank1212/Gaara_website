@@ -21,7 +21,7 @@ ul {
 
 *{
       color: aqua;
-      font-family: "Brush Script MT", cursive;
+      font-family: Helvetica, Sans-Serif;
   }
   
 li {
@@ -62,7 +62,7 @@ button:hover{
     background-image: none;
     background-color:darkred;
     color: white;
-    padding:23px 23px 23px 23px;
+    transform: scale(1.1);
     cursor: pointer;
 }
 
